@@ -1,0 +1,16 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.contenedor {
+    position: relative;
+    height: 100%;
+}
+
+.imagen-relieve {
+    position: absolute;
+    bottom: -70px;
+    left: -60px;
+    opacity: 0.1; /* Puedes ajustar este valor según tus preferencias. */
+}
